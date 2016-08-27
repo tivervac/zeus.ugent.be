@@ -7,6 +7,15 @@ title: Archieven
 
   <% academic_years_items.to_a.reverse.each do |year, item| %>
     <a href="<%= relative_path_to(item) %>" class="column is-one-quarter archive-tile">
+      <div class="box content">
+        <p class="year">
+          <%= "20" + year.to_s %>
+          <small>
+            <%= "20" + (year + 1).to_s %>
+          </small>
+        </p>
+      </div>
+
       <div class="box">
         <span>
           <%= posts_in_year(item[:academic_year]).size * 10 %>
@@ -14,12 +23,6 @@ title: Archieven
             <%= (posts_in_year(item[:academic_year]).size > 1)? "posts" : "post"  %>
           </small>
         </span>
-      </div>
-
-      <div class="box content">
-        <h2>
-          <%= pretty_year(year) %>
-        </h2>
       </div>
     </a>
   <% end %>
