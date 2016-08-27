@@ -14,8 +14,12 @@ module ArchiveHelper
     academic_years.map { |y| [y, items["/archives/#{y}-#{y + 1}.html"]] }.to_h
   end
 
-  def pretty_year(year)
+  def not_so_pretty_year(year)
     "'#{year} - '#{year + 1}"
+  end
+
+  def pretty_year(year)
+    "20#{year} - 20#{year + 1}"
   end
 
   def posts_in_year(academic_year)

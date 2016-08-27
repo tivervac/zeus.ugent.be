@@ -1,0 +1,33 @@
+.archive-tile {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  padding: 0px;
+  margin: 10px;
+
+  .box  {
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    box-shadow: none;
+
+    span {
+      padding: 0 .2em 0 .2em;
+      text-align: center;
+      font-weight: 700;
+      font-size: 5em;
+    }
+    span small {
+      font-weight: normal;
+      color:#888;
+      display:block;
+    }
+
+    h2 {
+      text-align: center;
+      margin-bottom: 0px;
+    }
+  }
+}

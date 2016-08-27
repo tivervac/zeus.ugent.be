@@ -2,10 +2,26 @@
 navigable: true
 title: Archieven
 ---
-<ul class = "archive_list">
-  <% academic_years_items.each do |year, item| %>
-  <li>
-    <%= link_to pretty_year(year), item %>
-  </li>
+
+<div class="columns ">
+
+  <% academic_years_items.to_a.reverse.each do |year, item| %>
+    <a href="<%= relative_path_to(item) %>" class="column is-one-quarter archive-tile">
+      <div class="box">
+        <span>
+          <%= posts_in_year(item[:academic_year]).size * 10 %>
+          <small>
+            <%= (posts_in_year(item[:academic_year]).size > 1)? "posts" : "post"  %>
+          </small>
+        </span>
+      </div>
+
+      <div class="box content">
+        <h2>
+          <%= pretty_year(year) %>
+        </h2>
+      </div>
+    </a>
   <% end %>
-</ul>
+
+</div>

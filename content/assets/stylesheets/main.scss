@@ -14,8 +14,9 @@ $family-sans-serif: 'Open Sans', sans-serif;
   flex: none;
 }
 
+@import "includes/404";
+@import "includes/archive";
 @import "includes/variables";
 @import "includes/cammie";
 @import "includes/events";
 @import "includes/general";
-@import "includes/404";
