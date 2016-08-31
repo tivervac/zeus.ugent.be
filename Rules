@@ -114,7 +114,7 @@ end
 compile '/*.erb' do
   layout '/generic.*'
   layout '/default.*'
-  filter :erb
+  filter :better_erb
 
   filter :relativize_paths, type: :html
 end

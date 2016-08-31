@@ -19,6 +19,9 @@ gem 'icalendar'
 # Autoprefixing for class
 gem 'autoprefixer-rails'
 
+# o boi
+gem 'erubis'
+
 group :development do
   gem 'adsf'
   gem 'highline'
