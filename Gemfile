@@ -20,7 +20,7 @@ gem 'icalendar'
 gem 'autoprefixer-rails'
 
 # o boi
-gem 'erubis'
+gem 'activeview'
 
 group :development do
   gem 'adsf'
