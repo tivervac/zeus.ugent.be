@@ -1,12 +1,10 @@
 ---
 title: AWK-les
-banner: 'https://zeus.ugent.be/wp-content/uploads/2016/02/awkles-229x300.jpg'
+image: 'https://zeus.ugent.be/wp-content/uploads/2016/02/awkles-229x300.jpg'
 created_at: 14-02-2016
-time: 23-02-2016
+time: 23-02-2016 18:00
 location: Zeus kelder
 ---
-
-![awkles](https://zeus.ugent.be/wp-content/uploads/2016/02/awkles-229x300.jpg){:class="alignright"}
 
 Op **dinsdag 23 februari 18:00** (na de les Scriptingtalen) in **Auditorium A1** organiseren we een **AWK-les** gegeven door **professor Peter Dawyndt**.
 

@@ -1,9 +1,11 @@
 ---
 title: 'Richard Stallman&#58; Copyright vs. Community'
 created_at: 03-11-2015
+time: 17-11-2015 19:30
+end: 17-11-2015 21:30
+image: https://zeus.ugent.be/wp-content/uploads/2015/11/eyed_notextinfo-212x300.jpg
+location: Auditorium Quetelet - Tweekerkenstraat 2 - 9000 Gent
 ---
-
-![eyed_notextinfo](https://zeus.ugent.be/wp-content/uploads/2015/11/eyed_notextinfo-212x300.jpg){:class="alignright"}
 
 Zeus WPI is very proud to host a talk by Richard Stallman. On the **17th of November**, he will give a non-technical talk about copyright and how it fits in our modern computer based society, . Richard Stallman is one of the most important people in the world of computer science and free software, and has received 15 honorary doctorates and professorships for his work.
 

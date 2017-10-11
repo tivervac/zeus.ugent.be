@@ -1,6 +1,8 @@
 ---
 title: Xtext Workshop
 created_at: 13-04-2016
+time: 26-04-2016 18:00
+location: Sterre S9, Auditorium A2
 ---
 
 ![450px-Xtext_logo](https://zeus.ugent.be/wp-content/uploads/2016/04/450px-Xtext_logo-300x89.png){:class="alignright"}
