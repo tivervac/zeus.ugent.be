@@ -10,12 +10,12 @@ author: Wout Schellaert
 
 Twas exactly this day, in the late 2016, not snowing nor freezing, not a cosy winter evening at all, but a magical '_Pannenkoeken & Jenever-codenight-avond_ ' happened none the less.
 
-It was that joyfull day the Massive Online Zeus Artificial Intelligence
-Competition, or MOZAIC for short, sprung from 3 overzealous minds. Back then we scribbled down some wants and wishes, and it took us way too long to figure out that the **Z** in MO**Z**AIC could in fact just stand for 'Zeus'.
+It was that joyful day the Massive Online Zeus Artificial Intelligence
+Competition, or MOZAIC for short, sprung from three overzealous minds. Back then we scribbled down some wants and wishes, and it took us way too long to figure out that the **Z** in MO**Z**AIC could in fact just stand for 'Zeus'.
 
 ## Going further
 
-Only in the summer months some actual code was written, not that any traces of it can still be found, but as a spark it marked the beginning of what would soon become a real team creating a real project. We started with some simple Rust that played a game, and a single HTML page with some JS, that we just opened in a browser, to render it nicely.
+Only in the summer months some actual code was written, not that any traces of it can still be found, but as a spark it marked the beginning of what would soon become a real team, creating a real project. We started with some simple Rust that played a game, and a single HTML page with some JS, that we just opened in a browser, to render it nicely.
 
 We hosted a tiny competition for the new students on the first day, where they could write a bot in Blockly, a visual language. We had 3 (now 4) fantastic MOZAIC codenights where we all got together for some illusion of productivity.
 
@@ -37,4 +37,4 @@ Festive greetings
 
 Wout
 
-PS: Care to join? Ask question in the [Zeus Slack](https://zeuswpi.slack.com/) (mozaic-channel), on the [GitHub repo](https://github.com/ZeusWPI/MOZAIC/) or directly of an aforementioned person.
+PS: Care to join? Ask question in the [Zeus Slack](https://zeuswpi.slack.com/) (mozaic-channel), on the [GitHub repo](https://github.com/ZeusWPI/MOZAIC/) or directly to an aforementioned person.
